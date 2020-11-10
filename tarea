@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="cajas.css">
+</head>
+<body>
+    
+    <div class="contenedor">
+        <header >
+            <img class="logo" src="img/HTML5.png" alt="">
+            <div class="navegacion">
+                
+                <h1>Tutorial de HTML5</h1>
+                
+                <nav>
+                    <ul>
+                        <li> <a href="" class="nav_enlace">Inicio</a></li>
+                        <li><a href="#" class="nav_enlace" >Semantica</a></li>
+                        <li><a href="#" class="nav_enlace">Listas</a></li>
+                        <li><a href="#" class="nav_enlace" >Formularios</a></li>
+                        <li><a href="#" class="nav_enlace">Imagenes</a></li>
+                    </ul>
+                </nav>
+            </div>
+            
+        </header>
+       
+        <main>
+            
+            <div class="aside">
+                
+                <ul>
+                    <li><a href="">¿Qué es HTML?</a></li>
+                    <li><a href="">Historia del HTML</a> </li>
+                    <li><a href="">La estructura de HTML5</a></li>
+                </ul>
+
+            </div>
+            <div class="seccion"> <!--caja del medio-->
+
+              
+                <article class="articulo">
+                    <h1>¿Qué es HTML?</h1>
+                    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus magnam, beatae dicta dolore recusandae cumque repudiandae assumenda exercitationem placeat quasi officia id adipisci quo perferendis voluptates sint totam? Error exercitationem mollitia consequatur vero molestiae, facilis, id dolor impedit iure ducimus, debitis vel. Facilis, asperiores reprehenderit debitis repellendus in dolorum doloremque.</p>
+
+                </article>
+                <article class="articulo">
+                    <h1>¿Qué es HTML?</h1>
+                    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Magni consequatur laborum quidem facilis repudiandae quae dignissimos saepe et ad atque, omnis ipsam labore minus ex necessitatibus numquam beatae nobis reiciendis amet ea eum optio dolorem. Tempora eveniet, laborum eaque placeat cumque deleniti fuga porro officia ab, quas molestias doloribus possimus cupiditate qui nam ad nesciunt sunt aperiam. Fugit quasi fugiat aspernatur facere magni, incidunt, enim recusandae iure in nesciunt id dolore quibusdam velit nemo, neque beatae laboriosam quod optio! Corporis culpa necessitatibus dolores numquam quaerat sunt rem laborum vitae ratione totam provident quo, delectus a natus harum dicta? Asperiores molestiae quidem aliquid odio in culpa laudantium corrupti nisi aut porro obcaecati beatae, repudiandae, quia blanditiis pariatur? Nihil deleniti, iure soluta totam, eligendi nam praesentium sint fugiat assumenda hic omnis quibusdam deserunt ut provident debitis! Mollitia totam veniam libero dolore ratione esse quis quisquam exercitationem ab, voluptate tenetur cupiditate voluptates. Possimus reprehenderit iste nostrum fugit aut repellat laudantium ab aliquam doloribus, quidem ut aspernatur quasi incidunt architecto asperiores doloremque commodi labore necessitatibus! Voluptatum, ullam quae. Possimus officiis omnis qui consectetur illo? Lorem ipsum dolor, sit amet consectetur adipisicing elit. Magni consequatur laborum quidem facilis repudiandae quae dignissimos saepe et ad atque, omnis ipsam labore minus ex necessitatibus numquam beatae nobis reiciendis amet ea eum optio dolorem. Tempora eveniet, laborum eaque placeat cumque deleniti fuga porro officia ab, quas molestias doloribus possimus cupiditate qui nam ad nesciunt sunt aperiam. Fugit quasi fugiat aspernatur facere magni,</p>
+
+                </article>  
+                    
+
+            </div>
+
+            <div class="aside2">
+                    <p> 
+                        <h2>Buscar</h2>
+                        <input type="buscar">
+                        <button class="button">Go</button>
+
+                    </p>
+                    <p class="videos">
+                        <h2>Enlaces a Videos tutoriales</h2>
+                        <ul>
+                            <li><a href="#">Introducción al HTML</a></li>
+
+                            <li><a href="">Estructuras básicas de HTML5</a></li>
+
+                            <li><a href="#">Párrafos eh HTML5</a></li>
+
+                            <li><a href="#">Listas ordenadas y desordenadas</a></li>
+
+                            
+                        </ul>
+                    </p>
+                    <p class="consulta">
+                        <h2>Enlaces a paginas Consulta</h2>
+                        <ul>
+                            <li><a href="#">Estructura del codigo HTML5</a></li>
+
+                            <li><a href="#">Como mostrar etuiquetas HTML como texto</a></li>
+
+                            <li><a href="#">W3Schools</a></li>
+
+                            
+
+                            
+                        </ul>
+                    </p>
+                    
+                    
+                
+
+            </div>
+            
+        </main>
+        <footer>
+           <h3>Derechos reservados</h3>
+    
+        </footer>
+
+    </div>
+    
+</body>
+</html>
